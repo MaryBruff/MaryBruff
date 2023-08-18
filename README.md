@@ -4,7 +4,7 @@
 ## About Me: 🖖
 
 
-With a diverse background in acting to technical communications, I've cultivated a passion for digital media and frontend development. Proficient in HTML, CSS, and JavaScript, I specialize in crafting UI/UX interfaces. Let's connect to explore potential collaborations and delve into my portfolio for a closer look at my projects and skills.
+With a diverse background in acting to technical communications, I've cultivated a passion for digital media and frontend development. Proficient in HTML, CSS, and JavaScript, I specialize in crafting UI/UX interfaces. Let's connect to explore potential collaborations and dive into my portfolio for a closer look at my projects and skills.
 
 
 
