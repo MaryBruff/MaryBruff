@@ -3,13 +3,9 @@
 
 ## About Me: 🖖
 
+With a diverse background in acting and technical communications, I've cultivated a passion for digital media and front-end development. Proficient in HTML, CSS, and JavaScript, I specialize in crafting UI/UX interfaces. Let's connect to explore potential collaborations and dive into my portfolio for a closer look at my projects and skills.
 
-With a diverse background in acting to technical communications, I've cultivated a passion for digital media and frontend development. Proficient in HTML, CSS, and JavaScript, I specialize in crafting UI/UX interfaces. Let's connect to explore potential collaborations and dive into my portfolio for a closer look at my projects and skills.
-
-
-
-![Untitled (300 × 300 px)](https://github.com/MaryBruff/MaryBruff/assets/128327004/f9915745-dffa-42d2-9c0b-8fb30e6775dd)
-
+![e6731f9b1575f6c5c9ce45ac58f11a7b](https://github.com/MaryBruff/MaryBruff/assets/128327004/30554208-1fa2-478e-91a5-02affd4020a2)
 
 
 Technologies:
@@ -28,3 +24,4 @@ Contact Me:
  
  📧  marybruff5@gmail.com 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MaryBruff&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="MaryBruff" /> </p>
