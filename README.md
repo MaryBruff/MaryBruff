@@ -1,7 +1,7 @@
 ## 🌈  Hello!  🪐
 
 
-## About Me: 🖖
+## About Me: 
 
 With a diverse background in acting and technical communications, I've cultivated a passion for digital media and front-end development. Proficient in HTML, CSS, and JavaScript, I specialize in crafting UI/UX interfaces. Let's connect to explore potential collaborations and dive into my portfolio for a closer look at my projects and skills.
 
