@@ -10,12 +10,19 @@ With a diverse background in acting and technical communications, I've cultivate
 
 Technologies:
 -----
-![image](https://github.com/MaryBruff/MaryBruff/assets/128327004/923d9638-46bc-4d81-9cce-a9d77976aae1)
-![image](https://github.com/MaryBruff/MaryBruff/assets/128327004/320c9716-d5d2-404f-83c2-bfdbf59dae04)
-![image](https://github.com/MaryBruff/MaryBruff/assets/128327004/a5334c5f-8cf4-4d64-97e6-5722aaa0dd9b)
-![image](https://github.com/MaryBruff/MaryBruff/assets/128327004/1e553da8-4fa9-4abc-8451-a10f62b3d696)
-![image](https://github.com/MaryBruff/MaryBruff/assets/128327004/2756ac39-e3da-446d-908e-637c5f8b6b23)
-![image](https://github.com/MaryBruff/MaryBruff/assets/128327004/c6caa47d-03cb-498f-b663-e86090118302)
+![JavaScript](https://img.shields.io/badge/javascript-%23FF69B4.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23FF69B4.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%23FF69B4.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF69B4?style=for-the-badge&logo=postman&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23FF69B4.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%23FF69B4?style=for-the-badge&logo=node.js&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%23FF69B4?style=for-the-badge&logo=webpack&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23FF69B4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%23FF69B4.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23FF69B4.svg?style=for-the-badge&logo=figma&logoColor=white)
+![CodePen](https://img.shields.io/badge/Codepen-%23FF69B4?style=for-the-badge&logo=codepen&logoColor=white)
+
 
 
 Contact Me:
