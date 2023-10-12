@@ -22,6 +22,8 @@ Technologies:
 ![Canva](https://img.shields.io/badge/Canva-%23FF69B4.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23FF69B4.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![CodePen](https://img.shields.io/badge/Codepen-%23FF69B4?style=for-the-badge&logo=codepen&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white&labelColor=ff69b4)
+
 
 
 
