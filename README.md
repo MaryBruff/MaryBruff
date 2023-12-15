@@ -17,8 +17,8 @@
 
 </details>
           </p>
-
-![image](https://github.com/MaryBruff/MaryBruff/assets/128327004/b70bde6b-07e4-4668-a7dd-179cb03e3590)
+          
+![image](https://github.com/MaryBruff/MaryBruff/assets/128327004/49be28c0-55d1-4814-a04e-f53e9ba9d89d)
         </div>
       </td>
       <td valign="top">
