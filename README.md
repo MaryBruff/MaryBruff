@@ -11,9 +11,9 @@
        With a diverse background in acting and technical communications, I've cultivated a passion for digital media and front-end development. Proficient in HTML, CSS, and JavaScript, I specialize in crafting UI/UX interfaces. Let's connect to explore potential collaborations and dive into my portfolio for a closer look at my projects and skills.
 </details>
 <details>
-  <summary> 📻 Currently Listening To 🔊 </summary>
+  <summary> 📻 Currently Listening To 🔊 </summary>  
     
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=poptartmarbear&cover_image=true&theme=natemoo-re&show_offline=false&background_color=291b3e&interchange=false&bar_color=ff64da&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=poptartmarbear&cover_image=true&theme=default&show_offline=false&background_color=291b3e&interchange=false&bar_color=ff64da)](https://spotify-github-profile.vercel.app/api/view?uid=poptartmarbear&redirect=true)
 
 </details>
           </p>
