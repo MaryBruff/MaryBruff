@@ -25,23 +25,23 @@
         <div align="center">
           <h3>Languages:</h3>
           <p>
-      <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" alt="My languages"/>
+      <img src="https://skillicons.dev/icons?i=js,html,css,py&theme=dark" alt="My languages"/>
           </p>
           <h3>Frameworks:</h3>
           <p>
-        <img src="https://skillicons.dev/icons?i=react,nodejs,webpack,express,sass&theme=dark" alt="Frameworks"/>
+        <img src="https://skillicons.dev/icons?i=react,nodejs,webpack,express,sass,graphql,redux&theme=dark" alt="Frameworks"/>
           </p>
           <h3>Development Tools and Environments:</h3>
           <p align="center">
-        <img src="https://skillicons.dev/icons?i=cypress,postman,git,github,replit,vscode,&theme=dark" alt="Tools"/>
+        <img src="https://skillicons.dev/icons?i=cypress,postman,git,github,replit,vscode&theme=dark" alt="Tools"/>
           </p>
           <h3>Design:</h3>
           <p>
-      <img src="https://skillicons.dev/icons?i=figma,codepen,ae,au,ps,pr&theme=dark" alt="Design"/>
+      <img src="https://skillicons.dev/icons?i=figma,codepen,ae,au,ps,pr,notion&theme=dark" alt="Design"/>
           </p>
               <h3>Next To Learn:</h3>
           <p>
-      <img src="https://skillicons.dev/icons?i=redux,svelte,py,tailwind &theme=light" alt="Learning"/>
+      <img src="https://skillicons.dev/icons?i=vue,svelte,tailwind &theme=light" alt="Learning"/>
           </p>
      <p align="center"> <img src="https://komarev.com/ghpvc/?username=MaryBruff&label=Profile%20views&color=ff64da&style=for-the-badge" alt="MaryBruff" /> </p>
         </div>
