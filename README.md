@@ -8,7 +8,7 @@
           <p>
            <details>
   <summary>🦋 About Me 🦋</summary>
-       With a diverse background in acting and technical communications, I've cultivated a passion for digital media and front-end development. Proficient in HTML, CSS, and JavaScript, I specialize in crafting UI/UX interfaces. Let's connect to explore potential collaborations and dive into my portfolio for a closer look at my projects and skills.
+       With a diverse background from acting to technical communications, I've cultivated a passion for digital media and front-end development. Proficient in HTML, CSS, and JavaScript, I specialize in crafting UI/UX interfaces. Let's connect to explore potential collaborations and dive into my portfolio for a closer look at my projects and skills.
 </details>
 <details>
   <summary> 📻 Currently Listening To 🔊 </summary>  
@@ -17,15 +17,15 @@
 
 </details>
           </p>
-          
-![image](https://github.com/MaryBruff/MaryBruff/assets/128327004/49be28c0-55d1-4814-a04e-f53e9ba9d89d)
+
+![image](https://github.com/MaryBruff/MaryBruff/assets/128327004/2b867b35-95ff-497a-b8b7-23aa44153708)
         </div>
       </td>
       <td valign="top">
         <div align="center">
           <h3>Languages:</h3>
           <p>
-      <img src="https://skillicons.dev/icons?i=js,html,css,py&theme=dark" alt="My languages"/>
+      <img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark" alt="My languages"/>
           </p>
           <h3>Frameworks:</h3>
           <p>
@@ -33,15 +33,15 @@
           </p>
           <h3>Development Tools and Environments:</h3>
           <p align="center">
-        <img src="https://skillicons.dev/icons?i=cypress,postman,git,github,replit,vscode&theme=dark" alt="Tools"/>
+        <img src="https://skillicons.dev/icons?i=cypress,githubactions,postman,git,github,replit,vscode&theme=dark" alt="Tools"/>
           </p>
           <h3>Design:</h3>
           <p>
-      <img src="https://skillicons.dev/icons?i=figma,codepen,ae,au,ps,pr,notion&theme=dark" alt="Design"/>
+      <img src="https://skillicons.dev/icons?i=apollo,figma,codepen,ae,au,ps,pr,notion&theme=dark" alt="Design"/>
           </p>
               <h3>Next To Learn:</h3>
           <p>
-      <img src="https://skillicons.dev/icons?i=vue,svelte,tailwind &theme=light" alt="Learning"/>
+      <img src="https://skillicons.dev/icons?i=aws,dynamodb,tailwind &theme=light" alt="Learning"/>
           </p>
      <p align="center"> <img src="https://komarev.com/ghpvc/?username=MaryBruff&label=Profile%20views&color=ff64da&style=for-the-badge" alt="MaryBruff" /> </p>
         </div>
@@ -55,7 +55,7 @@
  ![Mary's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaryBruff&show_icons=true&theme=jolly)
 </details>
 
-Contact Me:
+**Contact Me:**
 ----------
 
 <a target="_blank" href="https://www.linkedin.com/in/mary-bruff"><img src="https://img.shields.io/badge/-LinkedIn-291B3E?style=for-the-badge&logo=Linkedin&logoColor=ff64da"></img></a>
