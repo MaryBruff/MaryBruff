@@ -33,11 +33,11 @@
           </p>
           <h3>Development Tools and Environments:</h3>
           <p align="center">
-        <img src="https://skillicons.dev/icons?i=cypress,githubactions,postman,git,github,replit,vscode&theme=dark" alt="Tools"/>
+        <img src="https://skillicons.dev/icons?i=cypress,githubactions,postman,apollo,git,github,replit,vscode&theme=dark" alt="Tools"/>
           </p>
           <h3>Design:</h3>
           <p>
-      <img src="https://skillicons.dev/icons?i=apollo,figma,codepen,ae,au,ps,pr,notion&theme=dark" alt="Design"/>
+      <img src="https://skillicons.dev/icons?i=figma,codepen,ae,au,ps,pr,notion&theme=dark" alt="Design"/>
           </p>
               <h3>Next To Learn:</h3>
           <p>
