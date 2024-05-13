@@ -8,7 +8,7 @@
           <p>
            <details>
   <summary>🦋 About Me 🦋</summary>
-       With a diverse background from acting to technical communications, I've cultivated a passion for digital media and front-end development. Proficient in HTML, CSS, and JavaScript, I specialize in crafting UI/UX interfaces. Let's connect to explore potential collaborations and dive into my portfolio for a closer look at my projects and skills.
+       With a diverse background from acting to technical communications, I've cultivated a passion for digital media and front-end development. I am proficient in HTML, CSS, JavaScript, TypeScript, and React. I specialize in crafting UI/UX interfaces. Let's connect to explore potential collaborations and dive into my portfolio for a closer look at my projects and skills.
 </details>
 <details>
   <summary> 📻 Currently Listening To 🔊 </summary>  
