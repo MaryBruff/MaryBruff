@@ -13,7 +13,8 @@
 <details>
   <summary> 📻 Currently Listening To 🔊 </summary>  
     
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=poptartmarbear&cover_image=true&theme=default&show_offline=false&background_color=291b3e&interchange=false&bar_color=ff64da)](https://spotify-github-profile.vercel.app/api/view?uid=poptartmarbear&redirect=true)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=poptartmarbear&cover_image=true&theme=default&show_offline=false&background_color=291b3e&interchange=false&bar_color=ff64da)](https://spotify-github-profile.kittinanx.com/api/view?uid=poptartmarbear&redirect=true)
+
 
 </details>
           </p>
@@ -39,7 +40,7 @@
           <p>
       <img src="https://skillicons.dev/icons?i=figma,codepen,ae,au,ps,pr,notion&theme=dark" alt="Design"/>
           </p>
-              <h3>Next To Learn:</h3>
+              <h3>Learning:</h3>
           <p>
       <img src="https://skillicons.dev/icons?i=aws,dynamodb,tailwind &theme=light" alt="Learning"/>
           </p>
