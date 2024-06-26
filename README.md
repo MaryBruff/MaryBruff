@@ -20,6 +20,7 @@
           </p>
 
 ![image](https://github.com/MaryBruff/MaryBruff/assets/128327004/2b867b35-95ff-497a-b8b7-23aa44153708)
+     <p align="center"> <img src="https://komarev.com/ghpvc/?username=MaryBruff&label=Profile%20views&color=ff64da&style=for-the-badge" alt="MaryBruff" /> </p>
         </div>
       </td>
       <td valign="top">
@@ -44,7 +45,6 @@
           <p>
       <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,mongodb &theme=light" alt="Learning"/>
           </p>
-     <p align="center"> <img src="https://komarev.com/ghpvc/?username=MaryBruff&label=Profile%20views&color=ff64da&style=for-the-badge" alt="MaryBruff" /> </p>
         </div>
       </td>
     </tr>
