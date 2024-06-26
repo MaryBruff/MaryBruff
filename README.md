@@ -30,11 +30,11 @@
           </p>
           <h3>Frameworks:</h3>
           <p>
-        <img src="https://skillicons.dev/icons?i=react,nodejs,webpack,express,sass,graphql,redux&theme=dark" alt="Frameworks"/>
+        <img src="https://skillicons.dev/icons?i=react,nodejs,webpack,express,sass,graphql,redux,pug&theme=dark" alt="Frameworks"/>
           </p>
           <h3>Development Tools and Environments:</h3>
           <p align="center">
-        <img src="https://skillicons.dev/icons?i=cypress,githubactions,postman,apollo,git,github,replit,vscode&theme=dark" alt="Tools"/>
+        <img src="https://skillicons.dev/icons?i=cypress,githubactions,postman,apollo,git,github,replit,vscode,powershell&theme=dark" alt="Tools"/>
           </p>
           <h3>Design:</h3>
           <p>
@@ -42,7 +42,7 @@
           </p>
               <h3>Learning:</h3>
           <p>
-      <img src="https://skillicons.dev/icons?i=aws,dynamodb,tailwind &theme=light" alt="Learning"/>
+      <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,mongodb &theme=light" alt="Learning"/>
           </p>
      <p align="center"> <img src="https://komarev.com/ghpvc/?username=MaryBruff&label=Profile%20views&color=ff64da&style=for-the-badge" alt="MaryBruff" /> </p>
         </div>
