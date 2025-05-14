@@ -43,7 +43,7 @@ As a creative Full-stack Engineer with a diverse background ranging from acting 
             </p>
           <h3>Testing & Databases:</h3>
           <p>
-      <img src="https://skillicons.dev/icons?i=cypress,jest,postman,mongodb,dynamodb,mysql &theme=dark" alt="Testing"/>
+ <img src="https://skillicons.dev/icons?i=cypress,jest,postman,mongodb,dynamodb&theme=dark" alt="Testing" />
           </p>
           </p>
           <h3>Design:</h3>
@@ -52,7 +52,7 @@ As a creative Full-stack Engineer with a diverse background ranging from acting 
           </p>
               <h3>Learning:</h3>
           <p>
-      <img src="https://skillicons.dev/icons?i=docker,py,selenium,angular &theme=light" alt="Learning"/>
+   <img src="https://skillicons.dev/icons?i=py,selenium,angular&theme=light" alt="Learning" />
           </p>
         </div>
       </td>
